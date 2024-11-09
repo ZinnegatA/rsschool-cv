@@ -39,3 +39,21 @@ Aspiring **Node.js Developer** passionate about building robust web applications
 
 - Self-taught **AWS** and **Serverless Framework** to deploy serverless functions with real-time monitoring and observability using **AWS X-Ray**.
 - Managed tasks related to **AWS Lambda**, **API Gateway**, and **DynamoDB**, creating an efficient serverless architecture.
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Science in Regional Studies** - AlmaU, 2021
+- **Node.js Development Course** - EPAM TechOrda, 2022
+
+---
+
+## 🗣️ English Proficiency
+
+- **Fluent**: Experienced with English for both technical and collaborative purposes.
+- **Professional Setting**: Daily interaction with international teams, participating in meetings.
+
+---
+
+_Feel free to reach out for any opportunities or collaboration inquiries!_
