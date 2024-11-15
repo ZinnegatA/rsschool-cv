@@ -68,3 +68,15 @@ header img {
   border-radius: 50%;
   margin: 1em 0;
 }
+
+section pre {
+  text-align: left;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin: 0;
+  padding-left: 230px;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 800px;
+}

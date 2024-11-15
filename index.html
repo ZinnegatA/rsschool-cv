@@ -18,6 +18,8 @@
         <li><a href="#summary">Summary</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#experience">Experience</a></li>
+        <li><a href="#code-example">Code Example</a></li>
+        <li><a href="#educational-projects">Examples of Projects</a></li>
         <li><a href="#education">Education</a></li>
       </ul>
     </nav>
@@ -92,6 +94,37 @@
               serverless architecture.
             </li>
           </ul>
+        </li>
+      </ul>
+    </section>
+
+    <section id="code-example">
+      <h2>💻 Code Example</h2>
+      <p>Here is a simple code example that shows how to create a basic HTTP server using Node.js:</p>
+      <pre><code>
+const http = require('http');
+
+const server = http.createServer((req, res) => {
+  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.end('Hello, World!\n');
+});
+
+server.listen(3000, () => {
+  console.log('Server running at http://localhost:3000/');
+});
+      </code></pre>
+    </section>
+
+    <section id="educational-projects">
+      <h2>🎓 Completed Educational Projects</h2>
+      <ul>
+        <li>
+          <a href="https://github.com/ZinnegatA/number_guessing_game" target="_blank">Number Guessing Game</a> - A
+          simple Python game.
+        </li>
+        <li>
+          <a href="https://github.com/ZinnegatA/horoscope" target="_blank">Horoscope</a> - An app that shows a
+          horoscope.
         </li>
       </ul>
     </section>
