@@ -1,2 +1,1 @@
-# rsschool-cv
-CV Markdown task for RS School
+https://zinnegata.github.io/rsschool-cv/
